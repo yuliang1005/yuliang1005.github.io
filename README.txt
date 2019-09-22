@@ -42,3 +42,4 @@ cloud:https://hqwebhoster.com/
 machine learning: https://www.simplilearn.com/how-to-build-career-in-ai-and-machine-learning-article
 Cybersecurity: https://www.itu.int/en/ITU-D/Cybersecurity/Pages/default.aspx
 VR: https://apb-news.com/can-ar-vr-hold-the-key-to-a-new-immersive-viewing-experience/
+robot: https://www.aiimooc.com/article/show-htm-itemid-103.html
