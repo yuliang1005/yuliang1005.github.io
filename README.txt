@@ -32,3 +32,8 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+pic source:
+background: https://wall.alphacoders.com/big.php?i=891151&lang=Chinese
+software pic: https://www.techopedia.com/2/28350/personal-tech/software-applications/an-introduction-to-application-software
+code: https://devonblog.com/continuous-delivery/deploy-and-treat-sql-like-code-version-control-sql/
