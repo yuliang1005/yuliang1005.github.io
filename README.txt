@@ -40,3 +40,4 @@ code: https://devonblog.com/continuous-delivery/deploy-and-treat-sql-like-code-v
 application: https://www.adwebstudio.com/blog/factors-that-influence-user-experience/
 cloud:https://hqwebhoster.com/
 machine learning: https://www.simplilearn.com/how-to-build-career-in-ai-and-machine-learning-article
+Cybersecurity: https://www.itu.int/en/ITU-D/Cybersecurity/Pages/default.aspx
