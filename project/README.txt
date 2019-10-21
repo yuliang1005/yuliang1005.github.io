@@ -31,3 +31,7 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+picture src:
+wallpaper: https://www.androidguys.com/featured/wallpapers/31-beautiful-qhd-and-hd-wallpapers-for-your-devices/
+code: https://online.stanford.edu/courses/xfds112-r-programming-fundamentals
