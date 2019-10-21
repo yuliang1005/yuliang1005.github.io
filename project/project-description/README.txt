@@ -38,3 +38,11 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+picture src:
+https://imgur.com/gallery/TW5hw
+https://www.pinterest.com.au/pin/417497827929315104/?nic=1
+https://www.blippar.com/blog/2017/03/29/keywords-ar-and-ai-you-will-need-2017
+https://thedoctorweighsin.com/virtual-reality-improving-healthcare/
+https://www.nyfa.edu/vr/workshops/8-week-vr-game-design.php
+https://techcrunch.com/2016/02/22/swiss-startups-delving-into-virtual-reality/
